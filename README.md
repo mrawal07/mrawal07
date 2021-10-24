@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mukesh Rawal
 - 👀 I’m interested in Java, Spring, AWS, Oracle, Postgres, Kafka and many more..
-- 🌱 I’m currently learning Distributed transactions in Microservices
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning microservices best practices.
 - 📫 How to reach me mukesh.rawal@hotmail.com
 
 <!---
